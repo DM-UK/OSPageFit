@@ -6,7 +6,7 @@ This Java project is a practical implementation of [PageFit](https://github.com/
 ___
 
 ## Usage ##
-Entry point is [OSPageFit.main(String[] args)](https://github.com/DM-UK/OSPageFit/blob/master/src/main/java/dm/ospagefit/OSPageFit.java)
+Entry point is [OSPageFit](https://github.com/DM-UK/OSPageFit/blob/master/src/main/java/dm/ospagefit/OSPageFit.java).main()
 
 [Coordinates](https://github.com/DM-UK/OSPageFit/blob/master/src/main/java/dm/pagefit/map/Coordinate.java) must consist of an Easting/Northing  in OSGB36 format.
 

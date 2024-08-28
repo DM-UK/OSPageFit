@@ -1,0 +1,32 @@
+Map 1:
+https://explore.osmaps.com/print?lat=51.939858322837516&lon=-0.7075481257154532&zoom=13.0000&style=Leisure&type=2d
+Orientation: Portrait @ Scale: 25000
+
+Map 2:
+https://explore.osmaps.com/print?lat=51.84731109258781&lon=-0.6621583177587085&zoom=13.0000&style=Leisure&type=2d
+Orientation: Portrait @ Scale: 25000
+
+Map 3:
+https://explore.osmaps.com/print?lat=51.77291462991356&lon=-0.5745214849631263&zoom=13.0000&style=Leisure&type=2d
+Orientation: Landscape @ Scale: 25000
+
+Map 4:
+https://explore.osmaps.com/print?lat=51.70159915746198&lon=-0.4758602613320595&zoom=13.0000&style=Leisure&type=2d
+Orientation: Portrait @ Scale: 25000
+
+Map 5:
+https://explore.osmaps.com/print?lat=51.61130901120968&lon=-0.4803142013917951&zoom=13.0000&style=Leisure&type=2d
+Orientation: Portrait @ Scale: 25000
+
+Map 6:
+https://explore.osmaps.com/print?lat=51.533021862686205&lon=-0.4433923312208209&zoom=13.0000&style=Leisure&type=2d
+Orientation: Landscape @ Scale: 25000
+
+Map 7:
+https://explore.osmaps.com/print?lat=51.53877245120935&lon=-0.318752563186223&zoom=13.0000&style=Leisure&type=2d
+Orientation: Landscape @ Scale: 25000
+
+Map 8:
+https://explore.osmaps.com/print?lat=51.53334804612796&lon=-0.19030120483256938&zoom=13.0000&style=Leisure&type=2d
+Orientation: Landscape @ Scale: 25000
+
